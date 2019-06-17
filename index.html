@@ -11,11 +11,14 @@
     <div class="center">
     <h1>Date & a Joke, anyone?</h1>
     <form>
-        <button type="button" class="joke">Tell me a joke!</button>
+        <button type="button" class="joke" onclick="tellJoke()">Tell me a joke!</button>
 
-        <button type="button" class="date">What's today?</button>
+        <button type="button" class="date" onclick="giveDate()">What's today?</button>
     </form>
     <script src="js/script.js"></script>
+    </div>
+    <div class="center" id="output">
+        Click the buttons above to change the text!
     </div>
 </body>
 </html>
