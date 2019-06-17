@@ -15,3 +15,6 @@ https://www.w3schools.com/js/js_dates.asp
 https://www.w3schools.com/jsref/event_onclick.asp
 https://www.w3schools.com/jsref/jsref_random.asp
 
+* Corny Jokes - Some of my corny jokes came from this terrible article
+https://www.buzzfeed.com/kaylayandoli/corny-jokes-best-jokes
+
