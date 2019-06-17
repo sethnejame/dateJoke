@@ -6,7 +6,7 @@ Per Faraz's specs, the attached website contains two buttons:
 1. One button, when pressed, displays today's date, formatted
 2. The other button, when pressed, displays a random joke from an array
 
-The website can be viewed in your browser by visiting https://sethnejame.github.io/jokeDate
+The website can be viewed in your browser by visiting https://sethnejame.github.io/dateJoke
 
 Learning resources:
 
