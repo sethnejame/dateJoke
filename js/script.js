@@ -11,14 +11,17 @@ let jokeArray = ["Why was the the duck arrested?  <br><br> <b>Because he was cau
 // get current date with Date object
 let today = new Date();
 
-function tellJoke() {
+
+
+document.getElementById("joke").addEventListener("click", function () { 
     // use Math.random, mult by the length of the jokeArray, use that position in jokeArray index for rando joke
     let randomJoke = jokeArray[Math.floor(Math.random()*jokeArray.length)]
     // grab inner html of output div, replace with joke
     document.getElementById("output").innerHTML = (randomJoke)
-};
+});
 
-function giveDate() {
-    // grab inner html of output div, replace with joke
-    document.getElementById("output").innerHTML = (today.toDateString())
-};
+document.getElementById("date").addEventListener("click", function (){
+        // grab inner html of output div, replace with joke
+        document.getElementById("output").innerHTML = (today.toDateString())
+});
+
