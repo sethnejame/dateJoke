@@ -1,11 +1,11 @@
 
 // random list of bad jokes, courtesy of Seth
-let jokeArray = ["Why was the the duck arrested?  \n Because he was caught selling quack!",
-                "What do you call a fish with two knees? \n A two-knee-fish!",
-                "What do you call a chimpanzee who works with pottery?  \n Harry Potter!",
-                "What do you call it when Batman skips church?  \n Christian Bale!",
-                "Why don't they play poker in the jungle?  \n There's too many cheetahs!",
-                "What did the mallard say to the bartender?  \n Just put it on my bill!"
+let jokeArray = ["Why was the the duck arrested?  <br><br> <b>Because he was caught selling quack!",
+                "What do you call a fish with two knees? <br><br> <b>A two-knee-fish!",
+                "What do you call a chimpanzee who works with pottery?  <br><br> <b>Harry Potter!",
+                "What do you call it when Batman skips church?  <br><br> <b>Christian Bale!",
+                "Why don't they play poker in the jungle?  <br><br> <b>There's too many cheetahs!",
+                "What did the mallard say to the bartender?  <br><br> <b>Just put it on my bill!"
                 ];
 
 // get current date with Date object
